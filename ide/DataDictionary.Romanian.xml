@@ -1,28 +1,28 @@
 <stringTable>
   <key name="DD_OK_BUTTON">Ok</key>
-  <key name="DD_CANCEL_BUTTON">Cancel</key>
+  <key name="DD_CANCEL_BUTTON">Renunta</key>
   
-  <key name="DATA_DICTIONARY">Data Dictionary</key>
-  <key name="FORM_CAPTION">Data Dictionary</key>
+  <key name="DATA_DICTIONARY">Dicționar de date</key>
+  <key name="FORM_CAPTION">Dicționar de date</key>
 
-  <key name="DATA_DICTIONARY_FILE_TYPE_FILTER">Data Dictionary architecture files (*.xml)|*.xml</key>
+  <key name="DATA_DICTIONARY_FILE_TYPE_FILTER">Fișiere arhitectură Dicționar de date (*.xml)|*.xml</key>
 
-  <key name="MENU_FILE">&amp;File</key>
-  <key name="MENU_FILE_OPEN">&amp;Open</key>
-  <key name="MENU_FILE_EXIT">&amp;Exit</key>
-  <key name="MENU_FILE_SAVE">&amp;Save</key>
-  <key name="MENU_FILE_SAVE_AS">Save &amp;As...</key>
+  <key name="MENU_FILE">&amp;Fisier</key>
+  <key name="MENU_FILE_OPEN">&amp;Deschide</key>
+  <key name="MENU_FILE_EXIT">&amp;Iesire</key>
+  <key name="MENU_FILE_SAVE">&amp;Salvez</key>
+  <key name="MENU_FILE_SAVE_AS">Salvez &amp;ca...</key>
 
-  <key name="MENU_FILE_NEW">&amp;New</key>
+  <key name="MENU_FILE_NEW">&amp;Nou</key>
 
-  <key name="MENU_INSERT">&amp;Insert</key>
-  <key name="MENU_INSERT_ADD_TABLE">&amp;Add New Table</key>
-  <key name="MENU_PRIMARY_KEY">&amp;Is Primary Key</key>
+  <key name="MENU_INSERT">&amp;Inserez</key>
+  <key name="MENU_INSERT_ADD_TABLE">&amp;Adăugați un nou tabel</key>
+  <key name="MENU_PRIMARY_KEY">&amp;Este cheia primară</key>
 
-  <key name="PROPERTIES_CAPTION_name">Database Column</key>
-  <key name="PROPERTIES_CAPTION_ddtype">Data Type</key>
-  <key name="PROPERTIES_CAPTION_ddcaption">Caption</key>
-  <key name="PROPERTIES_CAPTION_input_caption">Caption</key>
+  <key name="PROPERTIES_CAPTION_name">Coloana bazei de date</key>
+  <key name="PROPERTIES_CAPTION_ddtype">Tip de date</key>
+  <key name="PROPERTIES_CAPTION_ddcaption">Titlu</key>
+  <key name="PROPERTIES_CAPTION_input_caption">Titlu</key>
   <key name="PROPERTIES_CAPTION_display_defaultvalue">Default Value</key>
   <key name="PROPERTIES_CAPTION_ddvalidationrule">Validation Rule</key>
   <key name="PROPERTIES_DESCRIPTION_ddvalidationrule">Expression to be used to determine data validity.</key>
@@ -30,7 +30,7 @@
   <key name="PROPERTIES_DESCRIPTION_ddvalidationtext"></key>
   <key name="PROPERTIES_CAPTION_ddisrequired">Is Required</key>
   <key name="PROPERTIES_DESCRIPTION_ddisrequired"></key>
-  <key name="PROPERTIES_CAPTION_ddunique">Unique</key>
+  <key name="PROPERTIES_CAPTION_ddunique">Unic</key>
   <key name="PROPERTIES_DESCRIPTION_ddunique"></key>
   <key name="PROPERTIES_CAPTION_ddinputmask">Input Mask</key>
   <key name="PROPERTIES_DESCRIPTION_ddinputmask"></key>
@@ -40,9 +40,9 @@
   <key name="PROPERTIES_DESCRIPTION_ddeditcontrol"></key>
   <key name="PROPERTIES_CAPTION_ddsize">Column Size</key>
   <key name="PROPERTIES_DESCRIPTION_ddsize"></key>
-  <key name="PROPERTIES_CAPTION_dddescription">Caption</key>
+  <key name="PROPERTIES_CAPTION_dddescription">Titlu</key>
   <key name="PROPERTIES_DESCRIPTION_dddescription"></key>
-  <key name="PROPERTIES_CAPTION_ddprimarykey">Key</key>
+  <key name="PROPERTIES_CAPTION_ddprimarykey">Cheie</key>
   <key name="PROPERTIES_DESCRIPTION_ddprimarykey"></key>
   <key name="PROPERTIES_CAPTION_ddinputevents">Events</key>
   <key name="PROPERTIES_DESCRIPTION_ddinputevents">Events are designated points that occur during the process of code execution. It is possible to add Actions or custom code that will be executed at the point in the code where the event occurs.</key>
@@ -50,7 +50,7 @@
   <key name="PROPERTIES_DESCRIPTION_dddisplayevents">Events are designated points that occur during the process of code execution. It is possible to add Actions or custom code that will be executed at the point in the code where the event occurs.</key>
   <key name="PROPERTIES_CAPTION_ddinputvisible">Visible</key>
   <key name="PROPERTIES_DESCRIPTION_ddinputvisible">Specifies whether the control is visible.</key>
-  <key name="PROPERTIES_CAPTION_dddisplayvisible">Visible</key>
+  <key name="PROPERTIES_CAPTION_dddisplayvisible">Vizibil</key>
   <key name="PROPERTIES_DESCRIPTION_dddisplayvisible">Specifies whether the control is visible.</key>
   <key name="PROPERTIES_CAPTION_ddcontrolsize">Control size</key>
   <key name="PROPERTIES_DESCRIPTION_ddcontrolsize">Sets or retrieves the size of the control.</key>
@@ -210,22 +210,22 @@
   <key name="EVENTS_CONFIG_DIALOG_CLEAN_ACTIONS_LIST_QUESTION">Control contains hidden actions. Would you like to remove them?</key>
   <key name="EVENTS_CONFIG_DIALOG_CLEAN_ACTIONS_LIST_CAPTION">Clear Actions List Confirmation</key>
 
-  <key name="EVENTS_TOOLBAR_ADD_ACTION">Add...</key>
-  <key name="EVENTS_TOOLBAR_DELETE_ACTION">Delete</key>
+  <key name="EVENTS_TOOLBAR_ADD_ACTION">Adaug...</key>
+  <key name="EVENTS_TOOLBAR_DELETE_ACTION">Sterg</key>
   <key name="EVENTS_TOOLBAR_MOVE_UP_ACTION">Move Up</key>
   <key name="EVENTS_TOOLBAR_MOVE_DOWN_ACTION">Move Down</key>
-  <key name="EVENTS_TOOLBAR_ADD_ACTION_DESCRIPTION">Add...</key>
-  <key name="EVENTS_TOOLBAR_DELETE_ACTION_DESCRIPTION">Delete</key>
+  <key name="EVENTS_TOOLBAR_ADD_ACTION_DESCRIPTION">Adaug...</key>
+  <key name="EVENTS_TOOLBAR_DELETE_ACTION_DESCRIPTION">Sterg</key>
   <key name="EVENTS_TOOLBAR_MOVE_UP_ACTION_DESCRIPTION">Move Up</key>
   <key name="EVENTS_TOOLBAR_MOVE_DOWN_ACTION_DESCRIPTION">Move Down</key>
 
   <key name="MERGE_DIALOG_CAPTION">Merge Tables</key>
   <key name="MERGE_OLD_PANEL_CAPTION">Old Tables</key>
   <key name="MERGE_NEW_PANEL_CAPTION">New Tables</key>
-  <key name="MERGE_INSTRUCTION">Select old table from list on right side and new table on left side and press Assosiate button.</key>
-  <key name="MERGE_ASSOCIATE_BUTTON">Associate</key>
-  <key name="MERGE_RESET_BUTTON">Reset</key>
-  <key name="MERGE_OK_BUTTON">Ok</key>
+  <key name="MERGE_INSTRUCTION">Selectați tabelul vechi din listă în partea dreaptă și tabelul nou în partea stângă și apăsați butonul Asociaza.</key>
+  <key name="MERGE_ASSOCIATE_BUTTON">Asociaza</key>
+  <key name="MERGE_RESET_BUTTON">Reinitializez</key>
+  <key name="MERGE_OK_BUTTON">OK</key>
 
   <key name="TABLE_PROPERTIES_CAPTION">Table properties</key>
   <key name="FIELD_PROPERTIES_CAPTION">Columns properties</key>
@@ -235,6 +235,6 @@
   <key name="PROPERTIES_CAPTION_IN_GRID_ddcontrolsize">Input HTML Size</key>
   <key name="PROPERTIES_CAPTION_IN_GRID_ddcontrolmaxlength">Input Max Size</key>
 
-  <key name="DIALOG_ADD_QUERY_CAPTION">Create Query</key>
+  <key name="DIALOG_ADD_QUERY_CAPTION">Creați interogare</key>
 
 </stringTable>
